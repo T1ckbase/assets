@@ -16,7 +16,7 @@
       <style>
       :root {
         /* the only thing needed is a grainy/noisy background image */
-        --glitter: url("silver-glitter-background.png");
+        --glitter: url("https://raw.githubusercontent.com/T1ckbase/assets/main/silver-glitter-background.png");
       }
 
       .fire::before,
