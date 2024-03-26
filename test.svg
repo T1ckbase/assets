@@ -16,7 +16,7 @@
       <style>
       :root {
         /* the only thing needed is a grainy/noisy background image */
-        --glitter: url("https://assets.codepen.io/13471/silver-glitter-background.png");
+        --glitter: url("silver-glitter-background.png");
       }
 
       .fire::before,
