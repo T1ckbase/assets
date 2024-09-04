@@ -98,9 +98,9 @@
               --height: 30em;
               --depth: 1em;
               
-              &:nth-child(2) { --rz: -15deg; }
+              &:nth-child(2) { --rz: -15deg }
             }
-            &:nth-child(2) { --tz: -11em; }
+            &:nth-child(2) { --tz: -11em }
           }
         
         }
